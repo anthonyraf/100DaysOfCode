@@ -1,0 +1,10 @@
+- Github Markdown translation generator (using Github Actions)
+- Tic tac toe game (cli and gui)
+- Clock (modern gui)
+- Rust POO example
+- Socket in Rust
+- Chat app (Python and/or Rust)
+- Portfolio
+- Simple Form System (Python Django)
+- Tic tac toe on web
+- Simple ML example
