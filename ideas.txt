@@ -8,3 +8,4 @@
 - Simple Form System (Python Django)
 - Tic tac toe on web
 - Simple ML example
+- Simple API using FastAPI (python)
