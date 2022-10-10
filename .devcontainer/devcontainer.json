@@ -51,7 +51,8 @@
 	"remoteUser": "vscode",
 	"features": {
 		"azure-cli": "latest",
-		"node": "lts",
-		"python": "3.10"
+		"node": "latest",
+		"python": "3.10",
+		"sshd": "latest"
 	}
 }
