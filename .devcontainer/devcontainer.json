@@ -52,7 +52,7 @@
 	"features": {
 		"azure-cli": "latest",
 		"node": "latest",
-		"python": "3.10",
+		"python": "latest",
 		"sshd": "latest"
 	}
 }
